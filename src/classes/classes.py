@@ -1,4 +1,5 @@
-from typing import List, TypedDict
+from typing import List
+from typing_extensions import TypedDict
 
 class User(TypedDict): 
   # unique id of the user

@@ -1,4 +1,5 @@
-from typing import List, TypedDict
+from typing import List
+from typing_extensions import TypedDict
 
 class Match_Follow(TypedDict):
     message_id: int
